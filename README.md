@@ -1,9 +1,9 @@
 ## Oiii, eu sou a Bella! :)
 
-- :woman_technologist:Aprendendo **HTML** , **CSS** , **JAVASCRIP** :)
-- 💡 Aluna na área de **FRONT-END** ​​e **BACK-END** 
+- :woman_technologist:Aprendendo **HTML**, **CSS**, **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL** :)
+- 💡 Aluna na área de **FullStack** 
 -  ▪️ **StartSe - Tech Academy - Turma 1- Academia gratuita de formação de desenvolvedores!**
--  ▪️ Fazendo o curso da **RocketSeat - Atualmente na trilha Fundamentar** - APRESENTO CERTIFICADO DA TRILHA CONECTAR!
+-  ▪️ **Montando uns projetinhos para praticar e aperfeiçoar meus conhecimentos!**
 -  🔍 Curiosidades aleatórias: **Eu amo cozinhar, jogar futebol, ouvir música e tocar instrumentos!**
 
 ##
