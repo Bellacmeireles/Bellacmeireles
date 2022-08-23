@@ -2,8 +2,7 @@
 
 - :woman_technologist:Aprendendo **HTML** , **CSS** , **JAVASCRIP** :)
 - 💡 Aluna na área de **FRONT-END** ​​e **BACK-END** 
--  ▪️ Fazendo o curso da **Codecademy - Aprenda JavaScript**
--  ▪️ Fazendo o curso da **StartSe - Tech Academy - Turma 1- Academia gratuita de formação de desenvolvedores!**
+-  ▪️ **StartSe - Tech Academy - Turma 1- Academia gratuita de formação de desenvolvedores!**
 -  ▪️ Fazendo o curso da **RocketSeat - Atualmente na trilha Fundamentar** - APRESENTO CERTIFICADO DA TRILHA CONECTAR!
 -  🔍 Curiosidades aleatórias: **Eu amo cozinhar, jogar futebol, ouvir música e tocar instrumentos!**
 
