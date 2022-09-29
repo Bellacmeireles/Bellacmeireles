@@ -2,8 +2,9 @@
 
 - :woman_technologist:Aprendendo **HTML**, **CSS**, **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL** :)
 - 💡 Aluna na área de **FullStack** 
--  ▪️ **StartSe - Tech Academy - Turma 1- Academia gratuita de formação de desenvolvedores!**
--  ▪️ **Montando uns projetinhos para praticar e aperfeiçoar meus conhecimentos!**
+-  🎯 **StartSe - Tech Academy - Turma 1- Academia gratuita de formação de desenvolvedores!**
+-  🎯 **Santander Code Girls - JAVA**
+-  🎯 **Montando uns projetinhos para praticar e aperfeiçoar meus conhecimentos!**
 -  🔍 Curiosidades aleatórias: **Eu amo cozinhar, jogar futebol, ouvir música e tocar instrumentos!**
 
 ##
@@ -15,9 +16,10 @@
 </div>
  
 <div style="display: inline_block"><br>
- <!-- <img align="center" alt="Bella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Bella-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bella-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bella-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Cinthia-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
   ##
