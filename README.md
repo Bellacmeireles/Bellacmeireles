@@ -8,10 +8,10 @@
 -  🔍 Curiosidades aleatórias: **Eu amo cozinhar, jogar futebol, ouvir música e tocar instrumentos!**
 
 ##
-<div>
+<div align="center">
 <a href="https://github.com/Bellacmeireles">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bellacmeireles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellacmeireles&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bellacmeireles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellacmeireles&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
