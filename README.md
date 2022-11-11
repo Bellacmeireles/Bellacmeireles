@@ -1,11 +1,11 @@
 ## Oiii, eu sou a Bella! :)
 
-- :woman_technologist:Aprendendo **HTML**, **CSS**, **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL** :)
-- 💡 Aluna na área de **FullStack** 
--  🎯 **StartSe - Tech Academy - Turma 1- Academia gratuita de formação de desenvolvedores!**
+- :woman_technologist:Learning **HTML**, **CSS**, **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL** :)
+- 💡Student in the **FullStack** area 
+-  🎯 **StartSe - Tech Academy - Class 1- Free fullstack developer training academy!**
 -  🎯 **Santander Code Girls - JAVA**
--  🎯 **Montando uns projetinhos para praticar e aperfeiçoar meus conhecimentos!**
--  🔍 Curiosidades aleatórias: **Eu amo cozinhar, jogar futebol, ouvir música e tocar instrumentos!**
+-  🎯 **Building some projects to practice and improve my knowledge!**
+-  🔍 Random Trivia: **I love cooking, playing football, listening to music and playing instruments!**
 
 ##
 <div style="display: inline_block"><br>
