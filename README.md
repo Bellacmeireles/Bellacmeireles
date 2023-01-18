@@ -1,7 +1,7 @@
 ## Oiii, eu sou a Bella! :)
 
 - :woman_technologist:Learning **HTML**, **CSS**, **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL** :)
-- 💡Student in the **FullStack** area 
+- 💡Student in the **BackEnd** area 
 -  🎯 **StartSe - Tech Academy - Class 1- Free fullstack developer training academy!**
 -  🎯 **Santander Code Girls - JAVA**
 -  🎯 **Building some projects to practice and improve my knowledge!**
@@ -15,7 +15,7 @@
 </div>
 </div>-->
 
-
+<!---->
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Bella-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
