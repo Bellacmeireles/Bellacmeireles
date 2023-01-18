@@ -1,4 +1,4 @@
-## Oiii, eu sou a Bella! :)
+## Hi, I'm Bella! :)
 
 - :woman_technologist:Learning **HTML**, **CSS**, **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL** :)
 - 💡Student in the **BackEnd** area 
