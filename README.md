@@ -1,19 +1,20 @@
-## Hi, I'm Bella! :)
+## Hi, I'm Isabella Cabral :)
 
 - :woman_technologist:Learning **HTML**, **CSS**, **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL** :)
 - 💡Student in the **BackEnd** area 
+- 💡**Studying Java Back-End Specialist at Ebac**
 -  🎯 **StartSe - Tech Academy - Class 1- Free fullstack developer training academy!**
 -  🎯 **Santander Code Girls - JAVA**
 -  🎯 **Building some projects to practice and improve my knowledge!**
 -  🔍 Random Trivia: **I love cooking, playing football, listening to music and playing instruments!**
 
 ##
-<!-- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 <a href="https://github.com/Bellacmeireles">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bellacmeireles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bellacmeireles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellacmeireles&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-</div>-->
+</div>
 
 <!---->
 
