@@ -1,6 +1,6 @@
 ## Hi, I'm Isabella Cabral :)
 
-- :woman_technologist: **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL**, **PostgreSQL** :)
+- :woman_technologist: **JAVASCRIP**, **JAVA**, **NODE.JS**, **GIT**, **SQL**, **PostgreSQL**, **Docker**  :)
 - 💡Student in the **BackEnd** area 
 - 💡**Studying Java Back-End Specialist at Ebac**
 -  🎯 **StartSe - Tech Academy - Class 1- Free fullstack developer training academy!**
